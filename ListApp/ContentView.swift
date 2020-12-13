@@ -13,7 +13,7 @@ struct ContentView: View {
             List(0 ..< 5) { item in
                 NavigationLink(destination: Text("Destination")/*@END_MENU_TOKEN@*/) { /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Content@*/Text("Navigate") }
                 
-            }.navigationTitle("最後のテスト")
+            }.navigationTitle("ちくわ大明神")
         }
     }
 }
